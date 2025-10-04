@@ -11,6 +11,7 @@ Core Functionality:
 🎤 Provides AI-evaluated feedback on practice answers
 
 ⚙️ Development Journey
+
 Step 1: Workspace Setup
 
 Initialized resume-interview-assistant directory. Script was executed primarily in a Google Colab environment.
